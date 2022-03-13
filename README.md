@@ -6,7 +6,8 @@ A trial with OOP concepts with C++
 
 Run the program with a standard C++ or g++ compiler on any platform. 
 
-$ g++ -o final.exe main.cpp base.cpp element.cpp node.cpp profile.cpp f_profile.cpp 
+$ g++ -o final.exe main.cpp base.cpp element.cpp node.cpp profile.cpp f_profile.cpp
+
 $ ./final.exe 
 
 Update the coordinatesystem.docx to your respective profile and combinations.
